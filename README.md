@@ -1,10 +1,10 @@
-# Web Scraping - Carros de Luxo
-Coletar dados de uma página web.
+## Web Scraping - Carros de Luxo
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Web Scraping - Carros de Luxo**
-| :label: Tecnologias | Python, Pandas, Google Colab, BeautifulSoup
-| :fire: Desafio     | https://cursos.alura.com.br/course/web-scraping-data-science-python
+### Tecnologias utilizadas
+Python, Pandas, Google Colab e BeautifulSoup.
 
-## Detalhes do projeto
+### Desafio
+https://cursos.alura.com.br/course/web-scraping-data-science-python
+
+### Descrição
+Coletar dados de uma página web automaticamente.
